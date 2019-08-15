@@ -1,4 +1,4 @@
-# Reinforcement Learning on google colab
+# Reinforcement Learning Algorithms
 
 # Colab notebook links
 
